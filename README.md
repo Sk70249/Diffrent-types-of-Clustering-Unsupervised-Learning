@@ -1,4 +1,4 @@
-# Diffrent types of Clustering: Unsupervised-Learning
+# Diffrent types of Clustering: Unsupervised-Learning &nbsp;&nbsp;[![license](https://img.shields.io/github/license/ajaymache/travis-ci-with-github.svg)](https://opensource.org/licenses/MIT)
 
 ## [1. KMeans Clustering](https://github.com/Sk70249/Diffrent-types-of-Clustering-Unsupervised-Learning/tree/master/KMeans%20Clustering)
 
