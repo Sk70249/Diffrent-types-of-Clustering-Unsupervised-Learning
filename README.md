@@ -1,8 +1,6 @@
 # Diffrent types of Clustering: Unsupervised-Learning
 
-## 1. KMeans Clustering
-
-#### Visit: https://github.com/Sk70249/Diffrent-types-of-Clustering-Unsupervised-Learning/blob/master/KMeans%20Clustering/K-Means-Customer-Segmentation.ipynb
+## [1. KMeans Clustering](https://github.com/Sk70249/Diffrent-types-of-Clustering-Unsupervised-Learning/tree/master/KMeans%20Clustering)
 
 ## Introduction
 
@@ -20,7 +18,7 @@ In this notebook we practice k-means clustering with 2 examples:
 - k-means on a random generated dataset
 - Using k-means for customer segmentation
 
-<h1 id="customer_segmentation_K_means">Customer Segmentation with K-Means</h1>
+[<h1 id="customer_segmentation_K_means">Customer Segmentation with K-Means</h1>](https://github.com/Sk70249/Diffrent-types-of-Clustering-Unsupervised-Learning/blob/master/KMeans%20Clustering/K-Means-Customer-Segmentation.ipynb)
 Imagine that you have a customer dataset, and you need to apply customer segmentation on this historical data.
 Customer segmentation is the practice of partitioning a customer base into groups of individuals that have similar characteristics. It is a significant strategy as a business can target these specific groups of customers and effectively allocate marketing resources. For example, one group might contain customers who are high-profit and low-risk, that is, more likely to purchase products, or subscribe for a service. A business task is to retaining those customers. Another group might include customers from non-profit organizations. And so on.
 
@@ -32,7 +30,7 @@ Customer segmentation is the practice of partitioning a customer base into grou
 
 ![download (10)](https://user-images.githubusercontent.com/48255425/84578334-e76abb80-ade1-11ea-8510-1c2846cc78db.png)
 
-## 2. Hirarchical Clutering
+## [2. Hirarchical Clutering](https://github.com/Sk70249/Diffrent-types-of-Clustering-Unsupervised-Learning/tree/master/Hirarchical%20Clustering)
 
 <h1 id="hierarchical_agglomerative">Hierarchical Clustering - Agglomerative</h1>
 
@@ -55,7 +53,7 @@ Using the <b> dendrogram </b> class from hierarchy, pass in the parameter:
 
 ![download (7)](https://user-images.githubusercontent.com/48255425/84578253-509dff00-ade1-11ea-84f6-4a0baf9eec87.png)
 
-<h1 id="clustering_vehicle_dataset">Clustering on Vehicle dataset</h1>
+[<h1 id="clustering_vehicle_dataset">Clustering on Vehicle dataset</h1>](https://github.com/Sk70249/Diffrent-types-of-Clustering-Unsupervised-Learning/blob/master/Hirarchical%20Clustering/Hierarchical-Clustering-Vehicle-Dataset.ipynb)
 
 Imagine that an automobile manufacturer has developed prototypes for a new vehicle. Before introducing the new model into its range, the manufacturer wants to determine which existing vehicles on the market are most like the prototypes--that is, how vehicles can be grouped, which group is the most similar with the model, and therefore which models they will be competing against.
 
@@ -66,7 +64,7 @@ Our objective here, is to use clustering methods, to find the most distinctive c
 ![download (8)](https://user-images.githubusercontent.com/48255425/84578263-6d3a3700-ade1-11ea-900d-dc6b04e5daf8.png)
 
 
-## 3. Density Based Clustering (DBSCAN)
+## [3. Density Based Clustering (DBSCAN)](https://github.com/Sk70249/Diffrent-types-of-Clustering-Unsupervised-Learning/tree/master/Density%20Based%20Clustering%20(DBSCAN))
 Most of the traditional clustering techniques, such as k-means, hierarchical and fuzzy clustering, can be used to group data without supervision. 
 
 However, when applied to tasks with arbitrary shape clusters, or clusters within cluster, the traditional techniques might be unable to achieve good results. That is, elements in the same cluster might not share enough similarity or the performance may be poor.
@@ -75,7 +73,7 @@ Additionally, Density-based Clustering locates regions of high density that are 
 
 
 
-<h1 align=center> Weather Station Clustering using DBSCAN & scikit-learn </h1>
+[<h1 align=center> Weather Station Clustering using DBSCAN & scikit-learn </h1>](https://github.com/Sk70249/Diffrent-types-of-Clustering-Unsupervised-Learning/blob/master/Density%20Based%20Clustering%20(DBSCAN)/Clustering-DBSCN-on-weather.ipynb)
 <hr>
 
 DBSCAN is specially very good for tasks like class identification on a spatial context. The wonderful attribute of DBSCAN algorithm is that it can find out any arbitrary shape cluster without getting affected by noise. For example, this following example cluster the location of weather stations in Canada.
