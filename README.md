@@ -32,7 +32,8 @@ Customer segmentation is the practice of partitioning a customer base into grou
 
 ## [2. Hirarchical Clutering](https://github.com/Sk70249/Diffrent-types-of-Clustering-Unsupervised-Learning/tree/master/Hirarchical%20Clustering)
 
-<h1 id="hierarchical_agglomerative">Hierarchical Clustering - Agglomerative</h1>
+[<h1 id="hierarchical_agglomerative">Hierarchical Clustering - Agglomerative</h1>](https://github.com/Sk70249/Diffrent-types-of-Clustering-Unsupervised-Learning/blob/master/Hirarchical%20Clustering/Hierarchical-Clustering-Vehicle-Dataset.ipynb)
+
 
 We will be looking at a clustering technique, which is <b>Agglomerative Hierarchical Clustering</b>. Remember that agglomerative is the bottom up approach. <br> <br>
 In this lab, we will be looking at Agglomerative clustering, which is more popular than Divisive clustering. <br> <br>
@@ -53,8 +54,7 @@ Using the <b> dendrogram </b> class from hierarchy, pass in the parameter:
 
 ![download (7)](https://user-images.githubusercontent.com/48255425/84578253-509dff00-ade1-11ea-84f6-4a0baf9eec87.png)
 
-[<h1 id="clustering_vehicle_dataset">Clustering on Vehicle dataset</h1>](https://github.com/Sk70249/Diffrent-types-of-Clustering-Unsupervised-Learning/blob/master/Hirarchical%20Clustering/Hierarchical-Clustering-Vehicle-Dataset.ipynb)
-
+<h1 id="clustering_vehicle_dataset">Clustering on Vehicle dataset</h1>
 Imagine that an automobile manufacturer has developed prototypes for a new vehicle. Before introducing the new model into its range, the manufacturer wants to determine which existing vehicles on the market are most like the prototypes--that is, how vehicles can be grouped, which group is the most similar with the model, and therefore which models they will be competing against.
 
 Our objective here, is to use clustering methods, to find the most distinctive clusters of vehicles. It will summarize the existing vehicles and help manufacturers to make decision about the supply of new models.
